@@ -8,12 +8,20 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
-    "axios": "^1.8.2",
+    "axios": "^1.8.3",
     "body-parser": "^1.20.3",
     "cookie-parser": "^1.4.7",
     "ejs": "^3.1.10",
     "express": "^4.21.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelSimasS/api-cliente.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RafaelSimasS/api-cliente/issues"
+  },
+  "homepage": "https://github.com/RafaelSimasS/api-cliente#readme",
+  "description": ""
 }
